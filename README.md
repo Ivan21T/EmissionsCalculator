@@ -6,14 +6,14 @@ The Fuel Emissions Calculator is a mobile application developed in **Java** usin
 
 ---
 
-# 🚀 Features
+# Features
 
-* ⛽ Fuel emissions calculation
-* 📊 Automatic calculation using emission factors
-* 📄 Export results into tabular reports
-* 📱 Android mobile application
-* ⚡ Fast and accurate calculations
-* ✔️ Simple and intuitive user interface
+* Fuel emissions calculation
+* Automatic calculation using emission factors
+* Export results into tabular reports
+* Android mobile application
+* Fast and accurate calculations
+* Simple and intuitive user interface
 
 ---
 
